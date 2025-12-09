@@ -29,7 +29,7 @@ Feature variables: date, country, humidity, co2_emission, energy_consumption, re
 
 plus engineered features: year, month
 
-⚙️ Model Pipeline
+# Model Pipeline
 
 The script performs:
 
@@ -50,13 +50,13 @@ The script performs:
     e. Residual plot  
     f. Permutation importance
 
-🚀 How to Run
+# How to Run
 
 python climate_temp_predictor.py
 
 All plots will be saved automatically in the plots/ directory.
 
-📈 Model Summary
+# Model Summary
 
 GradientBoostingRegressor achieves the best performance (Test R² ≈ 0.98, MAE ≈ 1.2°C)
 
