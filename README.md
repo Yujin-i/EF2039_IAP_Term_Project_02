@@ -67,7 +67,7 @@ Feature interpretation shows:
 - country → second
 - other indicators have minor influence
 
-⚠️ Limitations
+# Limitations
 
 Dataset covers only 2020–2024
 
