@@ -52,7 +52,7 @@ The script performs:
 
 # How to Run
 
-python climate_temp_predictor.py
+python climate_avg_temp_prediction.py
 
 All plots will be saved automatically in the plots/ directory.
 
